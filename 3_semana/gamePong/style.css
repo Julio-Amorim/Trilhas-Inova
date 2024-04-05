@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  article{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  canvas {
+    display: block;
+  }
+  
